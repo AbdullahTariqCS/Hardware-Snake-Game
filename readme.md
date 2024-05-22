@@ -1,23 +1,7 @@
 # Hardware Snake Game
 
-Welcome to the Hardware Snake Game project! This repository showcases a unique approach to recreating the classic Snake game using only fixed logic and fundamental non-programmable integrated circuits (ICs). By exploring the potential of sequential circuits, this project emphasizes the foundational principles of digital electronics and innovative solutions within constraints.
-
-## Project Overview
-
-This project was undertaken by:
-- Abdullah Tariq, Faculty of Computer Science
-- Hasan Abbas, Faculty of Computer Science
-- Muhammad Murtaza, Faculty of Computer Science
-
-### Abstract
-
-The primary goal of this project is to demonstrate the capability of sequential circuits to execute complex tasks like the Snake game. Detailed herein are the designs and implementations of each sub-circuit, both simulated in Proteus and realized in hardware. Key components include shift registers, multiplexers, demultiplexers, adders, and counters.
-
-## Introduction
 
 Traditional implementations of the Snake game often use a microcontroller interfaced with a display. In contrast, this project aimed to recreate the game logic using fundamental non-programmable ICs. This not only highlights resourcefulness but also reinforces the basic principles of digital electronics, making it an intriguing study in minimalist hardware design.
-
-## Methodology
 
 The project followed a ground-up approach, developing every aspect from scratch while referencing the operations of integrated circuits. The process involved conceptualization, component selection, circuit design, simulation, and physical implementation on breadboards.
 
