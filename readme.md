@@ -62,8 +62,8 @@ The project is organized into four main sub-circuits, each responsible for a cri
   - Arduino Uno
 
 - **Working**:
-  - Partly implemented with Arduino to avoid synchronization issues.
-  - Detailed movement processing and synchronization are handled by the Arduino.
+  - Clock and counters are provided by Arduino to avoid synchronization issues
+
 
 ### 3. Length Calculation
 
