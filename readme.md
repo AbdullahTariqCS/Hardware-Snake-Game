@@ -68,6 +68,7 @@ The project is divided into four main sub-circuits:
 
 - **Working**:
   The length of the snake is controlled using D-latches and counters. The length increases when a fruit is detected.
+  
 
 ### Output Display
 
@@ -100,20 +101,5 @@ The project is divided into four main sub-circuits:
 - **4x4 LED Matrix**: Visual display for the game.
 - **Wiring and Connectors**: Establish connections between components.
 
-## Implementation
-
-Detailed schematics and images of the Proteus simulations and hardware implementations are provided in the project documentation.
-
-## Conclusion
 
 This project demonstrates the potential and versatility of non-programmable ICs in achieving complex tasks. It serves as both an educational tool and a testament to the ingenuity of minimalist hardware design.
-
-For more detailed information, schematics, and code, please refer to the complete project documentation.
-
----
-
-**Project Link**: [GitHub Repository](https://github.com/AbdullahTariqCS/Hardware-Snake-Game)
-
----
-
-Feel free to explore, contribute, and provide feedback. Enjoy the journey through the fundamentals of digital design!
