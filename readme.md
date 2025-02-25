@@ -8,8 +8,7 @@ Traditional implementations of the Snake game often use a microcontroller interf
 The project followed a ground-up approach, developing every aspect from scratch while referencing the operations of integrated circuits. The process involved conceptualization, component selection, circuit design, simulation, and physical implementation on breadboards.
 
 
-
-![Final](img/Final.jpeg)
+![Final](img/Final_2.jpeg)
 
 ## Project Structure
 
@@ -77,7 +76,7 @@ The project is organized into four main sub-circuits, each responsible for a cri
 
 #### Fixed Logic Design in Simulation
 
-![len_cal](img/len_cal.png)
+![len_cal](img/Len_cal.png)
 - **Components**:
   - D-Latches (7474)
   - De-Multiplexers (74LS139)
