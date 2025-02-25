@@ -112,6 +112,9 @@ The project is organized into four main sub-circuits, each responsible for a cri
   - Coordinates processed and displayed using a 4x4 LED matrix controlled by Arduino.
   - The Arduino handles data transfer and display updates.
 
+Here is the Complete Demonstration of the Simulation
+[![demo](img/sim_demo.png)](https://www.youtube.com/watch?v=ckf05jB-liY)
 
+Here are a few more shots of the circuit
 ![overview](img/overview.png)
 ![Final](img/Final_2.jpeg)
