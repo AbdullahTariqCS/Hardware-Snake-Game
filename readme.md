@@ -1,5 +1,6 @@
 # Hardware Snake Game
 
+![Demo](Demo.gif)
 
 Traditional implementations of the Snake game often use a microcontroller interfaced with a display. In contrast, this project aimed to recreate the game logic using fundamental non-programmable ICs. This not only highlights resourcefulness but also reinforces the basic principles of digital electronics, making it an intriguing study in minimalist hardware design.
 
@@ -19,6 +20,8 @@ The project is organized into four main sub-circuits, each responsible for a cri
 
 #### Fixed Logic Design in Simulation
 
+
+![input](img/input.png)
 - **Components**:
   - Toggle switches (Up, Down, Left, Right)
   - D-latches (7474)
@@ -44,6 +47,7 @@ The project is organized into four main sub-circuits, each responsible for a cri
 
 #### Fixed Logic Design in Simulation
 
+![Processing](img/Processing.png)
 - **Components**:
   - 4-bit Universal Shift Registers (SN74LS95)
   - Multiplexers (74LS153, 74LS157)
@@ -69,6 +73,7 @@ The project is organized into four main sub-circuits, each responsible for a cri
 
 #### Fixed Logic Design in Simulation
 
+![len_cal](img/len_cal.png)
 - **Components**:
   - D-Latches (7474)
   - De-Multiplexers (74LS139)
@@ -84,6 +89,7 @@ The project is organized into four main sub-circuits, each responsible for a cri
 
 #### Fixed Logic Design in Simulation
 
+![output](img/Part_of_display_mesh.png)
 - **Components**:
   - De-Multiplexers (SN74LS139)
   - NOR Gates (4007)
@@ -103,6 +109,5 @@ The project is organized into four main sub-circuits, each responsible for a cri
 - **Working**:
   - Coordinates processed and displayed using a 4x4 LED matrix controlled by Arduino.
   - The Arduino handles data transfer and display updates.
-
 
 
