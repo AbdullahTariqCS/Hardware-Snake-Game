@@ -1,6 +1,8 @@
 # Hardware Snake Game
 
-![Demo](Demo.gif)
+![Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnowZmduaWdqenZkam10cHR1ZWY1NjVidDBoeWlteXIxeHM0a2czayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFjQOLDXJ9L4mULQzR/giphy.gif)
+
+![Final](img/Final.jpeg)
 
 Traditional implementations of the Snake game often use a microcontroller interfaced with a display. In contrast, this project aimed to recreate the game logic using fundamental non-programmable ICs. This not only highlights resourcefulness but also reinforces the basic principles of digital electronics, making it an intriguing study in minimalist hardware design.
 
