@@ -8,7 +8,6 @@ Traditional implementations of the Snake game often use a microcontroller interf
 The project followed a ground-up approach, developing every aspect from scratch while referencing the operations of integrated circuits. The process involved conceptualization, component selection, circuit design, simulation, and physical implementation on breadboards.
 
 
-![Final](img/Final_2.jpeg)
 
 ## Project Structure
 
@@ -114,3 +113,5 @@ The project is organized into four main sub-circuits, each responsible for a cri
   - The Arduino handles data transfer and display updates.
 
 
+![overview](img/overview.png)
+![Final](img/Final_2.jpeg)
