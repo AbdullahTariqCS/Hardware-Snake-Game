@@ -7,6 +7,8 @@ Traditional implementations of the Snake game often use a microcontroller interf
 
 The project followed a ground-up approach, developing every aspect from scratch while referencing the operations of integrated circuits. The process involved conceptualization, component selection, circuit design, simulation, and physical implementation on breadboards.
 
+
+
 ![Final](img/Final.jpeg)
 
 ## Project Structure
